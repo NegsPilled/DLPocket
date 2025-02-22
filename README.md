@@ -12,7 +12,7 @@ Started as a personal project, I adapted to share with friends, and the open-sou
 - Outputs video files as `.mkv` for broad codec compatibility.
 
 ## Minimalist Design
-![DLPocket Screenshot](screenshot.png)
+![DLPocket Screenshot](SCREENSHOT.png)
 
 ## Installation
 ### Prerequisites
