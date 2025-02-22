@@ -13,7 +13,7 @@ Started as a personal project, I adapted to share with friends, and the open-sou
 - Outputs video files as `.mkv` for broad codec compatibility.
 
 ## Screenshot
-*(Optional: Add a screenshot here by uploading an image to your repo, e.g., `screenshot.png`, and linking it: `![DLPocket Screenshot](screenshot.png)`)*
+*`![DLPocket Screenshot](screenshot.png)`)*
 
 ## Installation
 ### Prerequisites
