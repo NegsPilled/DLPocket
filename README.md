@@ -43,7 +43,7 @@ Started as a personal project, I adapted to share with friends, and the open-sou
    python dlpocket.py
    ```
 
-## Useage
+## Usage
 1. Launch DLPocket.
 2. Enter a YouTube URL in the "Enter Video URL" field.
 3. Select a quality option (e.g., "Best Quality" for highest resolution and FPS, or "Audio Only (MP3)").
