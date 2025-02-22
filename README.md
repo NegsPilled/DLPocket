@@ -11,7 +11,7 @@ Started as a personal project, I adapted to share with friends, and the open-sou
 - Choose your download folder and manage multiple URLs at once.
 - Outputs video files as `.mkv` for broad codec compatibility.
 
-## Screenshot
+## Minimalist Design
 ![DLPocket Screenshot](screenshot.png)
 
 ## Installation
