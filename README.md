@@ -8,12 +8,11 @@ Started as a personal project, I adapted to share with friends, and the open-sou
 - Download YouTube videos in resolutions from 240p to 4K (or higher, if available).
 - Supports 60 FPS for videos that offer it.
 - Extract audio as MP3 (192 kbps).
-- Custom title bar with a minimalist, dark design.
 - Choose your download folder and manage multiple URLs at once.
 - Outputs video files as `.mkv` for broad codec compatibility.
 
 ## Screenshot
-*`![DLPocket Screenshot](screenshot.png)`)*
+![DLPocket Screenshot](screenshot.png)
 
 ## Installation
 ### Prerequisites
