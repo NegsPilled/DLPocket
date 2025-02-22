@@ -21,14 +21,14 @@ Started as a personal project, I adapted to share with friends, and the open-sou
 - **FFmpeg**: Automatically bundled in the executable release; otherwise, install manually for source usage (see instructions below).
 
 ### Option 1: Download the Executable (Windows)
-1. Go to the [Releases](https://github.com/[Negspilled]/DLPocket/releases) page.
+1. Go to the [Releases](https://github.com/Negspilled/DLPocket/releases) page.
 2. Download the latest `DLPocket.exe`.
 3. Run the executable—no additional setup needed! FFmpeg and all dependencies are included.
 
 ### Option 2: Run from Source
 1. Clone this repository:
    ```text
-   git clone https://github.com/[Negspilled]/DLPocket.git
+   git clone https://github.com/Negspilled/DLPocket.git
    cd DLPocket
    ```
 2. Install dependencies:
