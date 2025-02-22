@@ -71,7 +71,7 @@ This program is free software: you can redistribute it and/or modify it under th
 As required by GPL v3, the source code is provided in this repository. If you distribute DLPocket binaries, you must also provide the source code.
 
 ## Contact
-Have questions or suggestions? Open an issue here on GitHub, or email at NegsPillled@proton.me
+Have questions or suggestions? Open an issue here on GitHub, or email me at NegsPillled@proton.me
 
 
 
