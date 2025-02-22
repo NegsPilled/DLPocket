@@ -27,18 +27,21 @@ Started as a personal project, I adapted to share with friends, and the open-sou
 
 ### Option 2: Run from Source
 1. Clone this repository:
-   ```bash
+   ```text
    git clone https://github.com/[YourUsername]/DLPocket.git
    cd DLPocket
+   ```
 2. Install dependencies:
    ```bash
    pip install yt-dlp PyQt5
+   ```
 3. Install FFmpeg:
    - Windows: Download from [FFmpeg’s official site](https://ffmpeg.org/) and add it to your PATH (e.g., `C:/ffmpeg/bin)`.
    - Linux/macOS: Install via package manager (e.g., `sudo apt install ffmpeg` or `brew install ffmpeg`).
 4. Run the app:
    ```bash
    python dlpocket.py
+   ```
 
 ## Useage
 1. Launch DLPocket.
