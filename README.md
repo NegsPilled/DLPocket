@@ -4,6 +4,8 @@
 
 Started as a personal project, I adapted to share with friends, and the open-source community.
 
+Right now it's Windows only. But I may add cross-platform support in the future.
+
 ## Features
 - Download YouTube videos in resolutions from 240p to 4K (or higher, if available).
 - Supports 60 FPS for videos that offer it.
